@@ -1,0 +1,16 @@
+      Product | Quantity
+        Metal tubing:
+|  Length (mm)  |	Qty  |	Name  |
+|  954	|   2	  |  x rails, sides
+|  899	|   1	  |  x rail, gantry
+|  743  |   2	  |  y rails, sides
+|  688  |	  1   |  y rail, gantry
+|  310	|   2	  |  z rails
+|  099	|   4	  |  legs
+|  6033	| total needed |	total tube length assuming 3mm kerf
+
+Material Dimensions:
+|  Length (mm)  |	Qty  |	Name  |
+|  170  |	  1   |	 leadscrew length
+| 1004  |  	2	  |  belt length along x
+|  793	|   2   | belt length along y
